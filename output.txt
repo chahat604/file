@@ -1,0 +1,146 @@
+ Volume in drive C is OS
+ Volume Serial Number is 78A6-478C
+
+ Directory of C:\Users\Chahat Gupta
+
+31-08-2024  04:03    <DIR>          .
+17-03-2023  05:17    <DIR>          ..
+30-12-2021  20:45    <DIR>          .android
+17-08-2024  10:00             1,417 .bash_history
+09-07-2023  13:45    <DIR>          .cache
+22-09-2022  23:35    <DIR>          .conda
+11-09-2022  11:40                25 .condarc
+11-09-2022  11:39    <DIR>          .continuum
+09-07-2023  13:45    <DIR>          .eclipse
+07-05-2023  17:09               313 .gitconfig
+03-03-2022  00:56    <DIR>          .idlerc
+12-08-2024  10:26    <DIR>          .ipynb_checkpoints
+30-08-2022  00:27    <DIR>          .ipython
+11-09-2022  11:40    <DIR>          .jupyter
+26-09-2023  00:03    <DIR>          .kaggle
+24-10-2023  13:36    <DIR>          .keras
+21-05-2022  13:09                20 .lesshst
+11-09-2022  13:28    <DIR>          .matplotlib
+06-12-2023  01:13               488 .node_repl_history
+14-07-2023  09:50    <DIR>          .p2
+12-09-2023  12:25               190 .packettracer
+21-01-2023  22:35    <DIR>          .spyder-py3
+31-07-2023  20:30    <DIR>          .vscode
+17-03-2023  03:43    <DIR>          .vscode-R
+09-03-2023  20:59             1,157 adult.ipynb
+08-04-2023  04:02         3,844,217 adultPrac7.csv
+30-08-2022  00:26    <DIR>          anaconda3
+12-02-2024  01:44    <DIR>          ansel
+13-09-2023  14:59             7,324 AUDIO.ipynb
+19-01-2022  17:44    <DIR>          Autodesk
+16-09-2022  02:31           194,627 background.png
+20-03-2023  04:59            62,751 blue_to_red_colormapped_image.jpg
+24-10-2023  13:24         3,319,294 captions.txt
+16-09-2022  02:58            15,158 car1.png
+16-09-2022  03:03            11,856 car2.png
+16-09-2022  03:09            11,313 car3.png
+14-05-2023  06:12            10,750 CAR_GAME(CHAHAT-R020).ipynb
+30-08-2022  00:42               589 chahaaaatttt.ipynb
+12-09-2023  12:44    <DIR>          Cisco Packet Tracer 8.2.1
+03-04-2023  04:27           612,512 clean.csv
+03-04-2023  03:37           528,461 clean.xlsx
+03-04-2023  23:38           610,771 clean2.csv
+03-04-2023  23:36           520,401 clean2.xlsx
+06-04-2023  22:28           484,082 clean3.csv
+10-09-2023  02:42            25,220 cn-assignment1.ipynb
+14-09-2023  16:08             9,454 CNS-lab5.ipynb
+31-10-2023  12:07            17,693 CN_ASSIGNMENT2.ipynb
+31-10-2023  12:05             8,564 CN_ASSISNGMENT1(R020, R047).ipynb
+20-03-2023  04:59           198,443 colormapped_image.jpg
+17-03-2023  11:10    <DIR>          Contacts
+08-08-2024  09:41           301,154 cv_lab3.ipynb
+13-08-2024  09:33             2,738 CV_PROJECT(1).ipynb
+16-08-2023  02:19             1,955 demo.ipynb
+24-10-2023  22:16             6,930 DL_IMAGE-AUDIO(1).ipynb
+29-10-2023  10:47           332,006 DL_NLP_Project__1.ipynb
+06-11-2023  23:07    <DIR>          Documents
+30-08-2024  02:08    <DIR>          Downloads
+09-07-2023  13:52    <DIR>          eclipse
+14-07-2023  16:15    <DIR>          eclipse-workspace
+23-03-2023  06:05            38,978 equal.jpg
+31-08-2024  02:25    <DIR>          exercises
+22-09-2022  23:25           606,620 exp7_rpt_jay.ipynb
+21-09-2022  23:45           417,153 experiment7.ipynb
+17-03-2023  11:10    <DIR>          Favorites
+30-08-2022  00:27                72 First file.ipynb
+20-02-2023  22:06             1,520 flask.ipynb
+24-10-2023  12:22    <DIR>          flickr-image-dataset
+23-02-2023  23:34             1,218 for correction in error.ipynb
+08-08-2024  09:34           623,591 girl (1).png
+26-09-2023  00:15     3,644,258,522 GoogleNews-vectors-negative300.bin
+26-09-2023  00:13     1,647,046,227 GoogleNews-vectors-negative300.bin.gz
+26-09-2023  00:07    <DIR>          googlenewsvectorsnegative300
+23-03-2023  02:09            33,964 hand2_img.png
+22-03-2023  23:08            37,675 hand_img.png
+21-02-2023  00:15            71,192 hid3.png
+19-03-2023  17:25            35,846 hid_1.jpg
+19-03-2023  17:25            27,794 hid_2.jpg
+20-03-2023  05:05            58,693 im1.jpg
+20-03-2023  05:05            63,071 im2.jpg
+20-03-2023  03:56            56,657 image1.jpg
+20-03-2023  03:56            59,052 image2.jpg
+24-10-2023  13:33     1,112,006,949 Images.zip
+13-09-2023  12:19            54,107 imagetext.jpg
+17-03-2023  11:14             7,581 image_fusion_1.ipynb
+19-01-2024  20:36             6,086 image_merge.ipynb
+16-08-2023  00:15             4,621 Iris.csv
+02-04-2024  23:00           283,905 IS-2(PROJECT).ipynb
+01-04-2024  22:58           163,159 IS-2.ipynb
+23-03-2023  06:05           304,262 IT(IMAGE IMPROVEMNT BY R020).ipynb
+31-08-2024  04:03    <DIR>          jen1
+13-09-2023  16:18             8,174 lab5.ipynb
+08-04-2023  04:08            20,558 lab7_R020(ML).ipynb
+23-03-2023  05:42            25,706 laplacian.jpg
+17-03-2023  11:10    <DIR>          Links
+26-10-2023  16:09            30,034 lstm(word embedding).ipynb
+07-04-2023  14:09            22,924 ML(GUI).ipynb
+06-04-2023  22:31            25,501 ML-Model_final(naive biase ).ipynb
+08-04-2023  19:59            42,056 ML-PROJECT(data-cleaning).ipynb
+07-04-2023  13:55           127,076 ML-PROJECT(data-model).ipynb
+10-04-2023  18:03           119,719 ML-PROJECT(DATA-VISUALISATIONAL).ipynb
+06-04-2023  02:40             2,326 ml-project.json
+23-03-2023  06:01            35,498 mul_image.jpg
+17-03-2023  11:10    <DIR>          Music
+26-09-2023  00:26            42,079 NLP_LAB5_R020.ipynb
+29-09-2023  23:28           135,151 nltk_moviesReview.ipynb
+03-11-2023  01:27    <DIR>          node_modules
+12-08-2024  10:36           581,976 OMR.png
+31-08-2024  02:19    <DIR>          OneDrive
+23-03-2023  01:28            27,119 or.png
+13-09-2023  14:59            13,824 output.mp3
+31-08-2024  04:03                 0 output.txt
+03-11-2023  01:27            84,406 package-lock.json
+03-11-2023  01:27               157 package.json
+23-03-2023  02:14            66,955 paper.png
+16-09-2023  23:29            83,247 R013_DL_Lab_4.ipynb
+04-04-2023  00:16             8,785 R020-CHAHAT(SIP-2).ipynb
+31-07-2023  23:31            28,931 R020_DL_Lab1.ipynb
+18-10-2023  22:05             3,188 R020_EXP8-CN.ipynb
+31-03-2024  16:54               916 R020_IS2(LAB-10).ipynb
+31-03-2024  16:26            95,457 R020_IS2(LAB-5).ipynb
+31-03-2024  16:20           155,326 R020_IS2(LAB-6).ipynb
+31-03-2024  16:34            15,123 R020_IS2(LAB-8).ipynb
+16-08-2023  22:17           282,354 r020_lab2_dl(2) (1).ipynb
+23-03-2023  05:54            27,474 result.jpg
+23-03-2023  06:02            34,760 result2.jpg
+24-10-2023  13:08        13,341,589 results.csv
+21-09-2022  23:34           343,706 rpt__exp7.ipynb
+17-03-2023  11:10    <DIR>          Saved Games
+17-03-2023  11:10    <DIR>          Searches
+31-03-2023  11:43             4,127 sip lab-10.ipynb
+20-03-2023  05:00           201,467 sip2.ipynb
+23-03-2023  05:59            12,634 sobelx.jpg
+22-05-2023  01:49               589 Untitled.ipynb
+14-09-2023  15:51               589 Untitled1.ipynb
+07-04-2023  14:05             1,382 values.csv
+31-03-2023  10:42           145,056 video.mp4
+17-03-2023  11:10    <DIR>          Videos
+01-04-2023  10:11           977,628 WA_Fn-UseC_-Telco-Customer-Churn.csv
+23-03-2023  02:09            25,396 x-ray.png
+             100 File(s)  6,434,611,351 bytes
+              39 Dir(s)  738,618,908,672 bytes free
